@@ -21,7 +21,7 @@ This project implements a backend server using ExpressJS with TypeScript. It pro
 - npm
 
 ## Project Structure
-project-root/ 
+```project-root/ 
   ├── package.json 
   ├── tsconfig.json 
   ├── jest.config.js 
@@ -30,6 +30,7 @@ project-root/
     ├── database.ts // Database handling
     └── app.ts // Express application (exported for testing) 
     └── app.test.ts // Unit tests for CRUD endpoints
+```
 
 ## Installation
 
